@@ -1,3 +1,9 @@
 altair
 pandas
 streamlit
+requests
+pillow
+Python-IO
+os-sys
+TIME-python
+random2
